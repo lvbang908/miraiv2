@@ -4,7 +4,7 @@ module.exports.config = {
 	hasPermssion: 0,
 	credits: "Mirai Team",
 	description: "Tìm kiếm thông tin ảnh thông qua ảnh (chỉ dành cho anime và hentai)",
-	commandCategory: "media",
+	commandCategory: "Phương tiện",
 	cooldowns: 5,
 	dependencies: {
 		"sagiri": "",
